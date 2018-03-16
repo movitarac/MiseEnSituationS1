@@ -1,4 +1,4 @@
-package com.nmetivier;
+package andriani.com;
 
 import java.util.Scanner;
 
